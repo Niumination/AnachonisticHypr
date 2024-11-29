@@ -1,0 +1,149 @@
+Environment variable $XDG_DATA_DIRS not set, ignoring.
+12:16:27 [0m[34m[INFO] [0m(main) Forced usage of wl_shm format: Xrgb8888
+/home/zaryu/.config/hypr/scripts/autostart/services: line 38: easyeffects: command not found
+/home/zaryu/.config/hypr/scripts/autostart/services: line 34: /home/zaryu/.config/hypr/portal: No such file or directory
+xkbcommon: ERROR: Unrecognized RMLVO option "level3:ralt_switch" was ignored
+/home/zaryu/.config/hypr/scripts/autostart/apps: line 4: spotify: command not found
+/home/zaryu/.config/hypr/scripts/autostart/apps: line 5: vesktop: command not found
+/home/zaryu/.config/hypr/scripts/autostart/apps: line 6: thunderbird: command not found
+/home/zaryu/.config/hypr/scripts/autostart/apps: line 7: obsidian: command not found
+xkbcommon: ERROR: Unrecognized RMLVO option "level3:ralt_switch" was ignored
+Environment variable $XDG_DATA_DIRS not set, ignoring.
+xkbcommon: ERROR: Unrecognized RMLVO option "level3:ralt_switch" was ignored
+xkbcommon: ERROR: Unrecognized RMLVO option "level3:ralt_switch" was ignored
+xkbcommon: ERROR: Unrecognized RMLVO option "level3:ralt_switch" was ignored
+xkbcommon: ERROR: Unrecognized RMLVO option "level3:ralt_switch" was ignored
+12:16:28 [0m[34m[INFO] [0m(main) Initialization succeeded! Starting main loop...
+
+(process:25690): Gtk-WARNING **: 19:16:28.890: Theme parser error: gtk.css:7791:21-28: Expected a valid color.
+
+(process:25690): Gtk-WARNING **: 19:16:28.890: Theme parser error: gtk.css:7796:21-28: Expected a valid color.
+
+(process:25690): Gtk-WARNING **: 19:16:28.899: Theme parser error: gtk.css:7814:21-28: Expected a valid color.
+
+(process:25690): Gtk-WARNING **: 19:16:28.900: Theme parser error: gtk.css:7820:21-28: Expected a valid color.
+                      ipc - Logger "ipc" initialized // common.py:205[0m
+                  startup - Logger "startup" initialized // common.py:205[0m
+                     pypr - Logger "pypr" initialized // common.py:205[0m
+                     pypr - Loading /home/zaryu/.config/hypr/pyprland.toml // command.py:114[0m
+                 pyprland - Logger "pyprland" initialized // common.py:205[0m
+                 pyprland - version // ipc.py:102[0m
+                 pyprland - activeworkspace // ipc.py:102[0m
+                 pyprland - monitors // ipc.py:102[0m
+                 pyprland - configured // command.py:179[0m
+              scratchpads - Logger "scratchpads" initialized // common.py:205[0m
+              scratchpads - configured // command.py:179[0m
+                  magnify - Logger "magnify" initialized // common.py:205[0m
+                  magnify - configured // command.py:179[0m
+               wallpapers - Logger "wallpapers" initialized // common.py:205[0m
+               wallpapers - configured // command.py:179[0m
+                     pypr - ================================[ initialized ]================================= // command.py:381[0m
+               wallpapers - Running swww img --transition-bezier 0.5,1.19,.8,.4 --transition-type wipe --transition-duration 2 --transition-fps 75 "/home/zaryu/.config/hypr/theme/walls/flowers-2.png" && notify-send 'Wallpaper Changed' -i "/home/zaryu/.config/hypr/theme/walls/flowers-2.png" --app-name=Wallpaper // wallpapers.py:81[0m
+sh: line 1: wttrbar: command not found
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86KbdInputAssistPrevgrou
+> Warning:          Could not resolve keysym XF86KbdInputAssistNextgrou
+Errors from xkbcomp are not fatal to the X server
+SwayOSD LibInput Backend isn't available, waiting...
+** Message: 19:16:31.225: configModel.vala:289: Loading Config: "/home/zaryu/.config/swaync/config.json"
+** Message: 19:16:31.228: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 19:16:31.236: functions.vala:100: Loading CSS: "/home/zaryu/.config/swaync/style.css"
+** Message: 19:16:31.339: factory.vala:44: Loading widget: title
+** Message: 19:16:31.355: factory.vala:44: Loading widget: mpris
+12:16:31 [0m[34m[INFO] [0m(transition) BumpPool with: 1 buffers. Size: 4098Kb
+              scratchpads - [30;1mevent_openwindow('62d58e1b4840,22 silent,nvtop,kitty',)[0m // command.py:202[0m
+12:16:31 [0m[34m[INFO] [0m(transition) BumpPool with: 2 buffers. Size: 8196Kb
+              scratchpads - [30;1mevent_openwindow('62d58e12b1f0,22 silent,btop,kitty',)[0m // command.py:202[0m
+12:16:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+[3.792] [glfw error 65544]: Notify: Failed to get server capabilities error: [org.freedesktop.DBus.Error.NoReply] Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[3.792] [glfw error 65544]: process_desktop_settings: failed with error: [org.freedesktop.DBus.Error.UnknownMethod] No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+12:16:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+[4.169] [glfw error 65544]: Notify: Failed to get server capabilities error: [org.freedesktop.DBus.Error.NoReply] Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[4.169] [glfw error 65544]: process_desktop_settings: failed with error: [org.freedesktop.DBus.Error.UnknownMethod] No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+12:16:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+12:16:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+              scratchpads - [30;1mevent_openwindow('62d58e405160,1,kitty,kitty',)[0m // command.py:202[0m
+[1.206] [glfw error 65544]: Notify: Failed to get server capabilities error: [org.freedesktop.DBus.Error.NoReply] Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1.206] [glfw error 65544]: process_desktop_settings: failed with error: [org.freedesktop.DBus.Error.UnknownMethod] No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+/sbin/waybar-updates: line 185: [: : integer expression expected
+/sbin/waybar-updates: line 185: [: : integer expression expected
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e405160 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e405160',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e1f5640 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+              scratchpads - [30;1mevent_openwindow('62d58e1f5640,1,kitty,kitty',)[0m // command.py:202[0m
+[1.297] [glfw error 65544]: Notify: Failed to get server capabilities error: [org.freedesktop.DBus.Error.NoReply] Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1.297] [glfw error 65544]: process_desktop_settings: failed with error: [org.freedesktop.DBus.Error.UnknownMethod] No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+                 pyprland - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e1f5640 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e1f5640 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e1f5640 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e1f5640 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e1f5640 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m
+                 pyprland - active_window = 0x62d58e1f5640 // pyprland.py:78[0m
+              scratchpads - [30;1mevent_activewindowv2('62d58e1f5640',)[0m // command.py:202[0m

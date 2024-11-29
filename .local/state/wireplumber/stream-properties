@@ -1,0 +1,4 @@
+[stream-properties]
+Input/Audio:application.name:cava={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false}
+Output/Audio:media.role:Movie={"channelMap":["FL", "FR"], "mute":false, "volume":1.000000, "channelVolumes":[0.274617, 0.274617]}
+Output/Audio:media.role:Notification={"volume":1.000000, "mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
